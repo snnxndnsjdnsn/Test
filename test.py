@@ -1,0 +1,6 @@
+std_name = input("Enter your name - ")
+usn = input("Enter your USN - ")
+course = input("Enter your course - ") 
+print("Name -",std_name)
+print("USN -",usn)
+print("Course -",course)
